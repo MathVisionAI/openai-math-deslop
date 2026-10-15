@@ -1,0 +1,7 @@
+# Spacetime Penrose inequalities: enclosing area, charge, and rigidity
+
+Result 260 · Spacetime Penrose inequalities: enclosing area, charge, rotation, and anti-de Sitter extensions
+
+[Read in MathVision Reading Mode](https://app.mathvision.ai/share/pdfs/00b574b1-d8a3-4bfe-82fd-8375322af6fc) · [Original PDF](https://github.com/openai/math/blob/1581d4cbdd69a0faf34b2089614fe2a814316a6a/preprints/Spacetime-Penrose-inequalities-enclosing-area-charge-and-rigidity-October-5-2026/paper.pdf)
+
+We prove sharp spacetime Penrose inequalities for invariant ADM mass and minimum enclosing area in three and four spatial dimensions. Under their respective designated-end conventions, the neutral numerical results allow arbitrary second fundamental form, nonzero momentum, disconnected weakly future trapped boundary, and finitely many ends. Under the stated horizon hypotheses, equality for the neutral inequalities reconstructs the original exterior data as spacelike slices of Schwarzschild spacetime in three dimensions and Schwarzschild–Tangherlini spacetime in four; the four-dimensional equality theorem concerns a connected, one-ended exterior. We also prove a three-dimensional electric–magnetic charged upper-area inequality for one-ended data with nonzero momentum, with separate purely electric rest-frame corollaries allowing finitely many ends. Finally, for each fixed transverse-traceless seed and prescribed decaying solution branch, we prove a local Schwarzschild–anti-de Sitter inequality.

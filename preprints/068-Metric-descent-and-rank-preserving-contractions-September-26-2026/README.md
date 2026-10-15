@@ -1,0 +1,7 @@
+# Metric descent and rank-preserving contractions
+
+Result 068 · Anticanonical nonvanishing in every dimension
+
+[Read in MathVision Reading Mode](https://app.mathvision.ai/share/pdfs/689757da-ee89-416e-a43c-f876d87354c5) · [Original PDF](https://github.com/openai/math/blob/1581d4cbdd69a0faf34b2089614fe2a814316a6a/preprints/Metric-descent-and-rank-preserving-contractions-September-26-2026/main.pdf)
+
+From a smooth semipositive anticanonical metric on a smooth projective complex variety, we construct an unweighted integrable semipositive metric on a corrected anticanonical line of a smooth base, using a normal equidimensional toroidal model and full generic adjoint rank one at exponent zero. The explicit rational boundary correction pulls back to an exceptional divisor. On varieties without positive-degree holomorphic forms, two-metric transfer gives sections with prescribed boundary poles from a finite-volume log-anticanonical metric and a target line with bounded semipositive weights. In particular, a smooth projective complex variety with a smoothly semipositive anticanonical bundle and no such forms has a nonzero invariant section of a positive anticanonical multiple for every torus action with its natural linearization. On this class of varieties, generic section and adjoint-rank hypotheses give contractions of invariant fibrations that preserve both conditions unless an invariant global section already exists.

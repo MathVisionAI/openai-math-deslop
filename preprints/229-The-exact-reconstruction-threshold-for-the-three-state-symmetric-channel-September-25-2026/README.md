@@ -1,0 +1,7 @@
+# The exact reconstruction threshold for the three-state symmetric channel
+
+Result 229 · Exact three- and four-state reconstruction thresholds and four-state tree capacity
+
+[Read in MathVision Reading Mode](https://app.mathvision.ai/share/pdfs/4bb6b7ca-b3fd-4480-9b22-b8d5b6975898) · [Original PDF](https://github.com/openai/math/blob/1581d4cbdd69a0faf34b2089614fe2a814316a6a/preprints/The-exact-reconstruction-threshold-for-the-three-state-symmetric-channel-September-25-2026/paper.pdf)
+
+We determine the exact reconstruction threshold for the symmetric three-state broadcast process on every regular <i>b</i>-ary tree, <i>b</i> ≥ 2, and every observed Poisson Galton–Watson tree of mean <i>d</i> &gt; 1. Reconstruction occurs exactly when $`d\lambda^2\gt 1`$, with <i>d</i> = <i>b</i> in the regular model; there is non-reconstruction at equality for either sign of the channel parameter. The Poisson advantage is averaged over trees and spins without conditioning on survival. This resolves the all-degree three-state regular-tree prediction. Combining the Poisson theorem with known tree-to-graph and algorithmic results gives the exact weak-recovery threshold for the symmetric three-community sparse stochastic block model with independent uniform labels, fixed within- and between-community rates $`a,b\gt 0`$, and mean degree $`(a+2b)/3\gt 1`$: recovery is possible exactly when $`(a-b)^2\gt 3(a+2b)`$. Above this threshold it is achievable in $`O(n\log n)`$ time; at or below it, weak recovery is information-theoretically impossible.
